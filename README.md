@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Created a Web page that welcomes user to the page with an appropriate greeting and displays the current date and time.
+Simple calculator developed in Python.
 <br />
 
 
