@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Simple calculator developed in Python.
+Simple calculator that was developed in Python.
 <br />
 
 
